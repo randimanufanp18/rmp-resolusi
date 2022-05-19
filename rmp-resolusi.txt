@@ -1,6 +1,6 @@
 RMP RESOLUSI
 - Menjadi Mahir Menggunakan Bahasa Program (Java, Java Script, PHP, Python, Kotlin, C++)
 - Membuat Website Dan Aplikasi Android
-- Lancar Bahasa Markup (HTML, CSS)
 - Membuat Aplikasi Belajar Dasar Web programmer kampus
 - Membuat Aplikasi android khusus pendataan dan kegiatan pendanaan desa menggunakan bahasa java dan kotlin
+- Membuat Aplikasi Belajar dasar dasar pemrograman
