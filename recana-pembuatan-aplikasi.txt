@@ -4,7 +4,8 @@ Rencana pembuatan aplikasi
     * Aplikasi website PHP
          ^Aplikasi OOD PHP
     * Aplikasi Website Java script
-         ^Aplikasi OOD JS
+         ^Aplikasi Node JS
+    * Aplikasi Website Python
 - Aplikasi penjualan online
 - Aplikasi khusus desa
 - Aplikasi Belajar program
