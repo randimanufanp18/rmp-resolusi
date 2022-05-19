@@ -1,0 +1,4 @@
+RMP RESOLUSI
+- Menjadi Mahir Menggunakan Bahasa Program (Java, Java Script, PHP, Python, Kotlin, C++)
+- Membuat Website Dan Aplikasi Android
+- Lancar Bahasa Markup (HTML, CSS)
