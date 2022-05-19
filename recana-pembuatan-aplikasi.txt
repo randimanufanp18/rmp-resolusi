@@ -1,0 +1,8 @@
+Rencana pembuatan aplikasi
+
+- Aplikasi Website programer
+    * Aplikasi website PHP
+    * Aplikasi Website Java script
+- Aplikasi penjualan online
+- Aplikasi khusus desa
+- Aplikasi Belajar program
